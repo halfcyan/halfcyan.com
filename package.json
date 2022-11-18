@@ -23,14 +23,14 @@
     "gatsby-transformer-sharp": "^4.22.0",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
-    "react-dom": "^18.1.0",
+    "react-dom": "^18.2.0",
     "typeface-merriweather": "1.1.13",
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
     "@types/node": "^18.7.16",
     "@types/react": "^18.0.21",
-    "@types/react-dom": "^18.0.6",
+    "@types/react-dom": "^18.0.9",
     "autoprefixer": "^10.4.12",
     "gatsby-plugin-postcss": "^5.24.0",
     "postcss": "^8.4.16",
